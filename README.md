@@ -13,4 +13,6 @@ Passing data with Navigation Component in Android.
      <td valign="top"><img src=https://user-images.githubusercontent.com/56589369/153748559-67c91fd2-55e2-4990-aafd-43d78b4ad1c4.png height="480" width="275"</td>
   </tr>
  </table>
+ 
+ For detailed explanation, you can check the article on [Medium](https://blog.devgenius.io/passing-data-with-navigation-component-in-android-7fa0ef9119b4).
 
